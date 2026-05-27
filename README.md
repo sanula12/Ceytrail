@@ -59,7 +59,7 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 - **Transaction** — immutable financial ledger for all platform movements
 - **Inquiry tables** — TourInquiry, VisaInquiry, TicketInquiry, EntertainmentInquiry
 
----
+--
 
 ## 👨‍💻 Built By
 
