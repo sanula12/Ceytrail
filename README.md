@@ -61,12 +61,6 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots and demo available upon request.
-
----
-
 ## 👨‍💻 Built By
 
 **Sanula Kariyapperuma** — Sole developer  
