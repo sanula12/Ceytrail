@@ -4,6 +4,8 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 
 > **Live:** [ceytrail.com](https://ceytrail.com)
 
+> ⚠️ **Note:** This is a client project. The source code is private to protect the client's intellectual property. This repository serves as a portfolio showcase only.
+
 ---
 
 ## 🧰 Tech Stack
@@ -59,43 +61,9 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 
 ---
 
-## 🚀 Getting Started
+## 📸 Screenshots
 
-```bash
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env
-
-# Sync database schema
-npx prisma db push
-
-# Seed initial data
-npm run prisma:seed
-
-# Start development server
-npm run dev
-```
-
----
-
-## 📁 Project Structure
-
-```
-app/
-├── (public)/       # Customer-facing frontend
-├── driver/         # Driver dashboard
-├── dashboard/      # Admin control panel
-lib/
-├── auth.ts         # Authentication config
-├── ably.ts         # Real-time WebSocket setup
-├── payhere.ts      # Payment gateway integration
-├── prisma.ts       # Database client
-components/         # Reusable UI components
-prisma/
-└── schema.prisma   # Full database schema
-```
+> Screenshots and demo available upon request.
 
 ---
 
