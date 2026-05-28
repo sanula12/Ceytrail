@@ -1,6 +1,6 @@
 # CeyTrail 🚗🌴
 
-A full-stack ride-hailing and tourism platform for Sri Lanka — connecting customers with drivers for taxi rides, multi-day travel bookings, and tour packages.
+A full-stack ride-hailing and tourism platform for Sri Lanka - connecting customers with drivers for taxi rides, multi-day travel bookings, and tour packages.
 
 > **Live:** [ceytrail.com](https://ceytrail.com)
 
@@ -21,7 +21,7 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 | Maps | Google Maps API |
 | Payments | PayHere (Card + Tokenization) |
 | Email | Resend |
-| Deployment | Vercel + Docker |
+
 
 ---
 
@@ -29,7 +29,7 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 
 ### 🧑 Customer
 - Book point-to-point taxi rides with live driver tracking
-- **Split Rides (Carpooling)** — share a ride and split the fare
+- **Split Rides (Carpooling)** - share a ride and split the fare
 - Multi-day travel bookings with a **live driver bidding engine**
 - Browse inbound/outbound tour packages with itineraries
 - Submit inquiries for tours, flights, visas, and entertainment
@@ -38,7 +38,7 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 ### 🚗 Driver
 - Real-time ride requests via Ably WebSockets
 - Competitive bidding on customer travel requests
-- Wallet system — track earnings, commissions, and payouts
+- Wallet system - track earnings, commissions, and payouts
 - Upload and manage vehicle documents for admin approval
 - Chauffeur profile support (SLTDA IDs for tourist driving)
 
@@ -47,21 +47,21 @@ A full-stack ride-hailing and tourism platform for Sri Lanka — connecting cust
 - Monitor all platform transactions and financial movements
 - Approve driver withdrawal requests and cash payment proofs
 - Manage destinations, tour packages, pricing, and ride categories
-- Dynamic pricing config — base price, per km rate, waiting charges
+- Dynamic pricing config - base price, per km rate, waiting charges
 
 ---
 
 ## 🗃️ Database Highlights
 
-- **User** — unified table for Customers, Drivers, and Admins with wallet balances
-- **Ride + RidePassenger** — supports both standard and split-ride carpooling
-- **Bid** — stores driver bids on ride and travel booking requests
-- **Transaction** — immutable financial ledger for all platform movements
-- **Inquiry tables** — TourInquiry, VisaInquiry, TicketInquiry, EntertainmentInquiry
+- **User** - unified table for Customers, Drivers, and Admins with wallet balances
+- **Ride + RidePassenger** - supports both standard and split-ride carpooling
+- **Bid** - stores driver bids on ride and travel booking requests
+- **Transaction** - immutable financial ledger for all platform movements
+- **Inquiry tables** - TourInquiry, VisaInquiry, TicketInquiry, EntertainmentInquiry
 
 ---
 
 ## 👨‍💻 Built By
 
-**Sanula Kariyapperuma** — Sole developer  
+**Sanula Kariyapperuma** - Sole developer  
 [github.com/sanula12](https://github.com/sanula12) · [linkedin.com/in/sanula-kariyapperuma](https://linkedin.com/in/sanula-kariyapperuma)
